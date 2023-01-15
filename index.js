@@ -123,4 +123,7 @@ const summary = (knightObj) => {
   })
 }
 
-knightMoves([3, 4], [7, 3])
+knightMoves([3, 4], [7, 5])
+knightMoves([0, 0], [7, 7])
+knightMoves([3, 4], [4, 3])
+knightMoves([4, 4], [4, 4])
